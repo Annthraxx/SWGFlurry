@@ -9,3 +9,4 @@
 }
 
 addLootGroupTemplate("rancor_rare", rancor_rare)
+addLootGroupTemplate("rancor_rare", rancor_rare)
