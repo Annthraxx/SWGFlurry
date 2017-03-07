@@ -71,6 +71,7 @@ includeFile("groups/creature/pearls_premium.lua")
 includeFile("groups/creature/pearls_select.lua")
 includeFile("groups/creature/peko_albatross.lua")
 includeFile("groups/creature/rancor_common.lua")
+includeFile("groups/creature/rancor_rare.lua")
 includeFile("groups/creature/sharnaff_common.lua")
 includeFile("groups/creature/voritor_lizard_common.lua")
 
